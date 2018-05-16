@@ -1,6 +1,6 @@
 {
   "name": "@umm/sortinglayername_attribute",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Provide [SortingLayerName] attribute for render string field as Popup in inspector",
   "homepage": "https://github.com/umm-projects/sortinglayername_attribute",
   "bugs": {
