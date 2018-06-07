@@ -1,0 +1,12 @@
+{
+    "name": "umm@sortinglayername_attribute-Editor",
+    "references": [
+        "umm@sortinglayername_attribute"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
