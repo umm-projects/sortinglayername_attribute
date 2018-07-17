@@ -9,7 +9,7 @@
 # Install
 
 ```shell
-$ npm install github:umm-projects/sortinglayername_attribute.git
+$ npm install github:umm/sortinglayername_attribute.git
 ```
 
 # Usage

@@ -2,9 +2,9 @@
   "name": "@umm/sortinglayername_attribute",
   "version": "1.2.1",
   "description": "Provide [SortingLayerName] attribute for render string field as Popup in inspector",
-  "homepage": "https://github.com/umm-projects/sortinglayername_attribute",
+  "homepage": "https://github.com/umm/sortinglayername_attribute",
   "bugs": {
-    "url": "https://github.com/umm-projects/sortinglayername_attribute/issues"
+    "url": "https://github.com/umm/sortinglayername_attribute/issues"
   },
   "scripts": {
     "umm:init": "umm-init",
@@ -22,14 +22,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:umm-projects/sortinglayername_attribute"
+    "url": "git@github.com:umm/sortinglayername_attribute"
   },
   "files": [
     "Assets",
     "scripts"
   ],
   "dependencies": {
-    "@umm/scripts": "umm-projects/scripts#^1.0.0"
+    "@umm/scripts": "umm/scripts#^1.0.0"
   },
   "devDependencies": {}
 }
